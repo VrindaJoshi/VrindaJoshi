@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Vrinda, and I'm a grade 11 student who loves math, coding, and biology!
+
+
 <!--
 **VrindaJoshi/VrindaJoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
