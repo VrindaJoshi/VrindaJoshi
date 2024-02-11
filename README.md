@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Vrinda, and I'm a grade 11 student who loves math, coding, and biology!
+I'm Vrinda, a grade 11 student who loves math, coding, and biology!
 
 - 🔭 I’m currently working on a punnet square application, that calculates the genotypes and phenotypes of offspring!
 - 🌱 I’m currently learning about all the cool things you can do in JavaScript.
