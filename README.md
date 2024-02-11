@@ -2,6 +2,7 @@
 
 I'm Vrinda, and I'm a grade 11 student who loves math, coding, and biology!
 
+- 🔭 I’m currently working on a punnet square application, that calculates the genotypes and phenotypes of offspring!
 
 <!--
 **VrindaJoshi/VrindaJoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
