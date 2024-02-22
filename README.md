@@ -1,9 +1,12 @@
-### Hi there 👋
+### Hi!
+My name is Vrinda! I love swimming, playing trumpet, and math!
 
-I'm Vrinda, a grade 11 student who loves math, coding, and biology!
+I also love to code! Some (I think they're pretty cool) things I've created include...
+✨ A Punnet Square App that calculated the genotypes and phenotypes of children (Inspired by my budding interest in Biology!)
+✨ A Computer Automated Instructional software that teaches you all about OOP (Object-Oriented Programming!)
+✨ My personal website (you can visit it at vrindajoshi.github.io !)
 
-- 🔭 I’m currently working on a punnet square application, that calculates the genotypes and phenotypes of offspring!
-- 🌱 I’m currently learning about all the cool things you can do in JavaScript.
+🌱 I’m currently learning about all the cool things you can do in JavaScript, and learning React and Node.
 
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
