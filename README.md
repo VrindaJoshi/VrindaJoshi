@@ -1,7 +1,7 @@
 ### Hi!
 My name is Vrinda, and I love swimming, playing the trumpet, and math!
 
-I also love to code! Some (I think they're pretty cool) things I've created include...
+I also love to code! Some cool things I've created include...
 - ✨ A Punnet Square App that calculated the genotypes and phenotypes of children (Inspired by my budding interest in Biology!)
 - ✨ A Computer Automated Instructional software that teaches you all about OOP (Object-Oriented Programming!)
 - ✨ My personal website (you can visit it at vrindajoshi.github.io !)
