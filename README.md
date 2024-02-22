@@ -2,9 +2,9 @@
 My name is Vrinda! I love swimming, playing trumpet, and math!
 
 I also love to code! Some (I think they're pretty cool) things I've created include...
-✨ A Punnet Square App that calculated the genotypes and phenotypes of children (Inspired by my budding interest in Biology!)
-✨ A Computer Automated Instructional software that teaches you all about OOP (Object-Oriented Programming!)
-✨ My personal website (you can visit it at vrindajoshi.github.io !)
+- ✨ A Punnet Square App that calculated the genotypes and phenotypes of children (Inspired by my budding interest in Biology!)
+- ✨ A Computer Automated Instructional software that teaches you all about OOP (Object-Oriented Programming!)
+- ✨ My personal website (you can visit it at vrindajoshi.github.io !)
 
 🌱 I’m currently learning about all the cool things you can do in JavaScript, and learning React and Node.
 
