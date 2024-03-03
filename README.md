@@ -2,7 +2,7 @@
 I love swimming, playing the trumpet, and math!
 
 I also love to code! Some cool things I've created include...
-- ✨ A Punnet Square App that calculates the genotypes and phenotypes of children (Inspired by my budding interest in Biology!)
+- ✨ <li href="https://github.com/VrindaJoshi/punnetSquare">a punnet square application</li> which calculates the genotypes and phenotypes of offspring
 - ✨ A Computer Automated Instructional software that teaches you all about OOP (Object-Oriented Programming!)
 - ✨ My personal website
   
