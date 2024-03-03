@@ -1,5 +1,5 @@
-### Hi!
-My name is Vrinda, and I love swimming, playing the trumpet, and math!
+### Hi, I'm @VrindaJoshi!
+I love swimming, playing the trumpet, and math!
 
 I also love to code! Some cool things I've created include...
 - ✨ A Punnet Square App that calculates the genotypes and phenotypes of children (Inspired by my budding interest in Biology!)
