@@ -1,10 +1,10 @@
 ### Hi, I'm @VrindaJoshi!
 I love swimming, playing the trumpet, and math!
 
-I also love to code! Some cool things I've created include... \n
-✨ <a class = "current-link" href="https://github.com/VrindaJoshi/punnetsquare">a punnet square application</a> which calculates the genotypes and phenotypes of offspring \n
-✨ <a class = "current-link" href="https://github.com/VrindaJoshi/gr11culminating">a computer automated instructional software</a> that teaches you all about OOP (Object-Oriented Programming!)\n
-✨ <a class = "current-link" href="https://VrindaJoshi.github.io">my personal website</a> \n
+I also love to code! Some cool things I've created include... <br>
+✨ <a class = "current-link" href="https://github.com/VrindaJoshi/punnetsquare">a punnet square application</a> which calculates the genotypes and phenotypes of offspring <br>
+✨ <a class = "current-link" href="https://github.com/VrindaJoshi/gr11culminating">a computer automated instructional software</a> that teaches you all about OOP (Object-Oriented Programming!) <br>
+✨ <a class = "current-link" href="https://VrindaJoshi.github.io">my personal website</a> <br>
   
 🌱 I’m currently learning about all the cool things you can do in JavaScript.
 
