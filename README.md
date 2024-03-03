@@ -2,9 +2,7 @@
 I love swimming, playing the trumpet, and math!
 
 I also love to code! Some cool things I've created include...
-- ✨ <a class = "current-link" style="color: white; 
-    text-decoration: none;
-    font-family: 'Calibri', sans-serif;" href="https://github.com/VrindaJoshi/punnetsquare">a punnet square application</a> which calculates the genotypes and phenotypes of offspring
+- ✨ <a class = "current-link" style="color: blue; text-decoration: none; font-family: 'Calibri', sans-serif;" href="https://github.com/VrindaJoshi/punnetsquare">a punnet square application</a> which calculates the genotypes and phenotypes of offspring
 - ✨ <a class = "current-link" href="https://github.com/VrindaJoshi/gr11culminating">a computer automated instructional software</a> that teaches you all about OOP (Object-Oriented Programming!)
 - ✨ <a class = "current-link" href="https://VrindaJoshi.github.io">my personal website</a>
   
