@@ -1,5 +1,5 @@
 ### Hi, I'm @VrindaJoshi!
-I love swimming, playing the trumpet, and math! Some cool things I've created include..
+Some cool things I've created include..
 
 ✨ <a class = "current-link" href="https://github.com/VrindaJoshi/punnetsquare">a punnet square application</a> which calculates the genotypes and phenotypes of offspring <br>
 ✨ <a class = "current-link" href="https://github.com/VrindaJoshi/gr11culminating">a computer automated instructional software</a> that teaches you all about OOP (Object-Oriented Programming!) <br>
